@@ -36,7 +36,7 @@ export const listdata=[
 ];
 export const SinglePostData={
     id:1,
-    title:"Beatiful Apartent",
+    title:"Beatiful Apartement",
     price:1200,
     images:[
         "https://images.pexels.com/photos/13078937/pexels-photo-13078937.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
